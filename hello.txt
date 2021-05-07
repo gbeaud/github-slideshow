@@ -8,3 +8,5 @@ Hello new branch
 
 Test staging 2
 Hello from GitHub
+
+New line from GitHub
